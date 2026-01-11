@@ -1,0 +1,8 @@
+pandas
+mysql-connector-python
+nba_api
+dotenv
+streamlit
+seaborn
+matplotlib
+plotly

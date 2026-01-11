@@ -18,12 +18,12 @@ The goal of this project is to demonstrate the ability to perform data collectio
 
 ### Table Designs
 1. players
+
 2. player_game_logs
 
-### Views
-1. player_career_stats
-2. player_season_stats
-3. player_career_highs
+3. player_season_summary
+
+4. player_season_splits
 
 ## Tools Used
  - Python
@@ -32,7 +32,3 @@ The goal of this project is to demonstrate the ability to perform data collectio
  - Pandas
  - MySQL Workbench
  - SQL
-
-
-
-
